@@ -49,7 +49,7 @@ gnome-terminal -t "detect" -x python ~/catkin_ws/src/tcpcli/scripts/talker.py
 gnome-terminal -t "detect" -x matlab
 ```
 # Set up RTK-GPS rover
-
+[GPS Set Up Japanese Doc](gps.md)
 
 ## COMS
 
